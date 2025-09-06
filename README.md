@@ -24,4 +24,3 @@ Built with **Java (Spring Boot)** backend, **React frontend**, and a **Chrome Ex
 
 ---
 
-## 📂 Project Structure  
