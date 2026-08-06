@@ -1,4 +1,4 @@
-package com.email.writer;
+package com.email.writer.Config;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.openai.OpenAiChatModel;
